@@ -5,6 +5,7 @@ import mx.com.nathlvz.poc.util.RegardsUtils;
 public class MainClass {
 
 	public static void main(String[] args) {
-		RegardsUtils.sayHello();
+		RegardsUtils.sayHelloEnglish();
+		RegardsUtils.sayHelloSpanish();
 	}
 }
