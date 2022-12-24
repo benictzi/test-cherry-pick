@@ -18,4 +18,8 @@ public class RegardsUtils {
 		return a - b;
 	}
 
+	public static int multiplyTwoNumbers(final int a, final int b) {
+		return a * b;
+	}
+
 }
