@@ -9,4 +9,17 @@ public class RegardsUtils {
 	public static void sayHelloSpanish() {
 		System.out.println("Hola, mi nombre es Benjamin y yo estoy checando como cherry pick trabaja!");
 	}
+
+	public static int sumTwoIntegers(final int a, final int b) {
+		return a + b;
+	}
+
+	public static int subtractTwoIntegers(final int a, final int b) {
+		return a - b;
+	}
+
+	public static int multiplyTwoNumbers(final int a, final int b) {
+		return a * b;
+	}
+
 }
